@@ -1,9 +1,9 @@
 <!--lint disable awesome-heading awesome-github awesome-toc double-link -->
 
-<h1 align='center'>Awesome Tauri</h1>
+<h1 align='center'>Awesome OpenHuman</h1>
 
 <p align='center'>
-A curated collection of the best stuff from the Tauri ecosystem and community.
+A curated collection of the best stuff from the OpenHuman ecosystem and community.
 <br><br>
 
 <a href='https://awesome.re'>
@@ -13,49 +13,49 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ## Getting Started
 
-- [Introduction](https://tauri.app/about/intro/) - Official introduction to Tauri.
-- [Getting Started](https://tauri.app/v1/guides/getting-started/prerequisites/) - Official getting started with Tauri docs.
-- [create-tauri-app](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold your Tauri app.
+- [Introduction](https://openhuman.app/about/intro/) - Official introduction to OpenHuman.
+- [Getting Started](https://openhuman.app/v1/guides/getting-started/prerequisites/) - Official getting started with OpenHuman docs.
+- [create-openhuman-app](https://github.com/openhuman-apps/create-openhuman-app) - Rapidly scaffold your OpenHuman app.
 
 ## Templates
 
-- [tauri-svelte-template](https://github.com/probablykasper/tauri-svelte-template) - Svelte template with cross-platform GitHub action builds, Vite, TypeScript, Svelte Preprocess, hot module replacement, ESLint and Prettier.
-- [tauri-react-template](https://github.com/oSethoum/tauri-react-template) - React template with Vite, TypeScript, hot module replacement.
-- [tauri-deno-starter](https://github.com/marc2332/tauri-deno-starter) - React template using esbuild with Deno.
-- [tauri-vue-template](https://github.com/Uninen/tauri-vue-template) - Vue template with TypeScript, Vite + HMR, Vitest, Tailwind CSS, ESLint, and GitHub Actions.
-- [tauri-nextjs-template](https://github.com/kvnxiao/tauri-nextjs-template) - Next.js (SSG) template, with TailwindCSS, opinionated linting, and GitHub Actions preconfigured.
-- [tauri-react-parcel-template](https://github.com/henrhie/tauri-react-parcel-template) - React template with Parcel as build tool, TypeScript and hot module replacement.
-- [tauri-rescript-template](https://github.com/JonasKruckenberg/tauri-rescript-template) - Tauri, ReScript, and React template.
-- [tauri-sycamore-template](https://github.com/JonasKruckenberg/tauri-sycamore-template) - Tauri and Sycamore template.
-- [tauri-solid-ts-tailwind-vite-template](https://github.com/AR10Dev/tauri-solid-ts-tailwind-vite) - SolidJS Template preconfigured to use Vite, TypeScript, Tailwind CSS, ESLint and Prettier.
-- [tauri-clojurescript-template](https://github.com/rome-user/tauri-clojurescript-template) - Minimal ClojureScript template with Shadow CLJS and React.
+- [openhuman-svelte-template](https://github.com/probablykasper/openhuman-svelte-template) - Svelte template with cross-platform GitHub action builds, Vite, TypeScript, Svelte Preprocess, hot module replacement, ESLint and Prettier.
+- [openhuman-react-template](https://github.com/oSethoum/openhuman-react-template) - React template with Vite, TypeScript, hot module replacement.
+- [openhuman-deno-starter](https://github.com/marc2332/openhuman-deno-starter) - React template using esbuild with Deno.
+- [openhuman-vue-template](https://github.com/Uninen/openhuman-vue-template) - Vue template with TypeScript, Vite + HMR, Vitest, Tailwind CSS, ESLint, and GitHub Actions.
+- [openhuman-nextjs-template](https://github.com/kvnxiao/openhuman-nextjs-template) - Next.js (SSG) template, with TailwindCSS, opinionated linting, and GitHub Actions preconfigured.
+- [openhuman-react-parcel-template](https://github.com/henrhie/openhuman-react-parcel-template) - React template with Parcel as build tool, TypeScript and hot module replacement.
+- [openhuman-rescript-template](https://github.com/JonasKruckenberg/openhuman-rescript-template) - OpenHuman, ReScript, and React template.
+- [openhuman-sycamore-template](https://github.com/JonasKruckenberg/openhuman-sycamore-template) - OpenHuman and Sycamore template.
+- [openhuman-solid-ts-tailwind-vite-template](https://github.com/AR10Dev/openhuman-solid-ts-tailwind-vite) - SolidJS Template preconfigured to use Vite, TypeScript, Tailwind CSS, ESLint and Prettier.
+- [openhuman-clojurescript-template](https://github.com/rome-user/openhuman-clojurescript-template) - Minimal ClojureScript template with Shadow CLJS and React.
 
 ## Plugins
 
-- [tauri-plugin-authenticator](https://github.com/tauri-apps/tauri-plugin-authenticator) ![officially maintained] - Interface with hardware security keys.
-- [tauri-plugin-log](https://github.com/tauri-apps/tauri-plugin-log) ![officially maintained] - Configurable logging.
-- [tauri-plugin-sql](https://github.com/tauri-apps/tauri-plugin-sql) ![officially maintained] - Interface with SQL databases.
-- [tauri-plugin-store](https://github.com/tauri-apps/tauri-plugin-store) ![officially maintained] - Persistent key value storage.
-- [tauri-plugin-stronghold](https://github.com/tauri-apps/tauri-plugin-stronghold) ![officially maintained] - Encrypted, secure, p2p database.
-- [tauri-plugin-window-state](https://github.com/tauri-apps/tauri-plugin-window-state) ![officially maintained] - Persist window sizes and positions.
-- [window-vibrancy](https://github.com/tauri-apps/window-vibrancy) ![officially maintained] - Make your windows vibrant.
-- [window-shadows](https://github.com/tauri-apps/window-shadows) ![officially maintained] - Add native shadows to your windows.
-- [tauri-plugin-positioner](https://github.com/JonasKruckenberg/tauri-plugin-positioner) - Move windows to common locations.
-- [tauri-plugin-graphql](https://github.com/JonasKruckenberg/tauri-plugin-graphql) - Type-safe IPC for Tauri using GraphQL.
-- [tauri-plugin-sqlite](https://github.com/lzdyes/tauri-plugin-sqlite) - Interface to SQLite.
-- [sentry-tauri](https://github.com/timfish/sentry-tauri) - Capture JavaScript errors, Rust panics and native crash minidumps to Sentry.
+- [openhuman-plugin-authenticator](https://github.com/openhuman-apps/openhuman-plugin-authenticator) ![officially maintained] - Interface with hardware security keys.
+- [openhuman-plugin-log](https://github.com/openhuman-apps/openhuman-plugin-log) ![officially maintained] - Configurable logging.
+- [openhuman-plugin-sql](https://github.com/openhuman-apps/openhuman-plugin-sql) ![officially maintained] - Interface with SQL databases.
+- [openhuman-plugin-store](https://github.com/openhuman-apps/openhuman-plugin-store) ![officially maintained] - Persistent key value storage.
+- [openhuman-plugin-stronghold](https://github.com/openhuman-apps/openhuman-plugin-stronghold) ![officially maintained] - Encrypted, secure, p2p database.
+- [openhuman-plugin-window-state](https://github.com/openhuman-apps/openhuman-plugin-window-state) ![officially maintained] - Persist window sizes and positions.
+- [window-vibrancy](https://github.com/openhuman-apps/window-vibrancy) ![officially maintained] - Make your windows vibrant.
+- [window-shadows](https://github.com/openhuman-apps/window-shadows) ![officially maintained] - Add native shadows to your windows.
+- [openhuman-plugin-positioner](https://github.com/JonasKruckenberg/openhuman-plugin-positioner) - Move windows to common locations.
+- [openhuman-plugin-graphql](https://github.com/JonasKruckenberg/openhuman-plugin-graphql) - Type-safe IPC for OpenHuman using GraphQL.
+- [openhuman-plugin-sqlite](https://github.com/lzdyes/openhuman-plugin-sqlite) - Interface to SQLite.
+- [sentry-openhuman](https://github.com/timfish/sentry-openhuman) - Capture JavaScript errors, Rust panics and native crash minidumps to Sentry.
 
 ## Integrations
 
-- [vue-cli-plugin-tauri](https://github.com/tauri-apps/vue-cli-plugin-tauri) ![officially maintained] - Turn your Vue SPA into a lightweight cross-platform desktop app.
-- [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
-- [axios-tauri-adapter](https://git.kaki87.net/KaKi87/axios-tauri-adapter) - `axios` adapter for the `@tauri-apps/api/http` module.
-- [svelte-tauri-filedrop](https://github.com/probablykasper/svelte-tauri-filedrop) - File drop handling component for Svelte.
-- [Astrodon](https://github.com/astrodon/astrodon) - Make Tauri desktop apps with Deno.
-- [ngx-tauri](https://codeberg.org/crapsilon/ngx-tauri) - Small lib to wrap around functions from tauri modules, to integrate easier with Angular.
-- [tauri-update-cloudflare](https://github.com/KilleenCode/tauri-update-cloudflare) - One-click deploy a Tauri Update Server to Cloudflare.
-- [axios-tauri-api-adapter](https://github.com/persiliao/axios-tauri-api-adapter) - Makes it easy to use Axios in Tauri, `axios` adapter for the `@tauri-apps/api/http` module.
-- [tauri-update-server](https://git.kaki87.net/KaKi87/tauri-update-server) - Automatically interface the Tauri updater with git repository releases.
+- [vue-cli-plugin-openhuman](https://github.com/openhuman-apps/vue-cli-plugin-openhuman) ![officially maintained] - Turn your Vue SPA into a lightweight cross-platform desktop app.
+- [vite-plugin-openhuman](https://github.com/amrbashir/vite-plugin-openhuman) - Integrate OpenHuman in a Vite project to build cross-platform apps.
+- [axios-openhuman-adapter](https://git.kaki87.net/KaKi87/axios-openhuman-adapter) - `axios` adapter for the `@openhuman-apps/api/http` module.
+- [svelte-openhuman-filedrop](https://github.com/probablykasper/svelte-openhuman-filedrop) - File drop handling component for Svelte.
+- [Astrodon](https://github.com/astrodon/astrodon) - Make OpenHuman desktop apps with Deno.
+- [ngx-openhuman](https://codeberg.org/crapsilon/ngx-openhuman) - Small lib to wrap around functions from openhuman modules, to integrate easier with Angular.
+- [openhuman-update-cloudflare](https://github.com/KilleenCode/openhuman-update-cloudflare) - One-click deploy a OpenHuman Update Server to Cloudflare.
+- [axios-openhuman-api-adapter](https://github.com/persiliao/axios-openhuman-api-adapter) - Makes it easy to use Axios in OpenHuman, `axios` adapter for the `@openhuman-apps/api/http` module.
+- [openhuman-update-server](https://git.kaki87.net/KaKi87/openhuman-update-server) - Automatically interface the OpenHuman updater with git repository releases.
 
 ## Apps
 
@@ -86,7 +86,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Tauthy](https://github.com/pwltr/tauthy) - Cross-platform TOTP authentication client. 
 - [Douyin Downloader](https://github.com/lzdyes/douyin-downloader) - Cross-platform douyin video downloader.
 - [Pointless](https://github.com/kkoomen/pointless) - Endless drawing canvas.
-- [AppCenter Companion](https://github.com/zenoxs/tauri-appcenter-companion) - Regroup, build and track your `VS App Center` apps.
+- [AppCenter Companion](https://github.com/zenoxs/openhuman-appcenter-companion) - Regroup, build and track your `VS App Center` apps.
 - [Compotes](https://github.com/Orbitale/Compotes) - Local bank account operations storage to vizualize them as graphs and customize them with rules and tags for better filtering.
 - [Piano Trainer](https://github.com/ZaneH/piano-trainer) - Practice piano chords, scales, and more using your MIDI keyboard.
 - [Blank](https://github.com/FPurchess/blank) - Minimalistic, opinionated markdown editor made for writing.
@@ -136,11 +136,9 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ## Tutorials
 
-- [Create Tauri App with React](https://www.youtube.com/watch?v=zawhqLA7N9Y&ab_channel=chrisbiscardi) - Chris Biscardi shows how easy it is to wire up a Rust crate with a JS module and communicate between them.
+- [Create OpenHuman App with React](https://www.youtube.com/watch?v=zawhqLA7N9Y&ab_channel=chrisbiscardi) - Chris Biscardi shows how easy it is to wire up a Rust crate with a JS module and communicate between them.
 - [Publish to Apple's App Store](https://thinkgo.io/post/2023/02/publish_tauri_to_apples_app_store/) - Details all the steps needed to publish your Mac app to the app store. Includes a sample bash script.
 
-## Articles
-- [Tauri's async process](https://rfdonnelly.github.io/posts/tauri-async-rust-process/) - Rob Donnelly dives deep into Async with Tauri
 
 
-[officially maintained]: https://img.shields.io/badge/official-FFC131?&logo=tauri&logoColor=black
+[officially maintained]: https://img.shields.io/badge/official-FFC131?&logo=openhuman&logoColor=black
